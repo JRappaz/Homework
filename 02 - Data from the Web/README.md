@@ -1,7 +1,7 @@
 # 02 - Data from the Web
 
 ## Deadline
-Monday October 17, 2016 at 11:59PM
+Wednesday October 25, 2017 at 11:59PM
 
 ## Important Notes
 * Make sure you push on GitHub your Notebook with all the cells already evaluated (i.e., you don't want your colleagues to generate 
